@@ -12,7 +12,7 @@ FoamFile
     format          ascii;
     class           dictionary;
     location        system;
-    object          sampleDict;
+    object          sampleLineForMixtureFraction;
 }
 
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
