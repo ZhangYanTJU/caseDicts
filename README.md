@@ -1,5 +1,6 @@
 # caseDicts
 
+OpenFOAM 会自动从某些文件夹中搜索 functionObjects，这些文件夹列在[这里](https://github.com/OpenFOAM/OpenFOAM-dev/blob/master/src/OpenFOAM/db/dictionary/functionEntries/includeFuncEntry/includeFuncEntry.H)。
 ```
 cd ~/.OpenFOAM
 git clone git@github.com:ZhangYanTJU/caseDicts.git
