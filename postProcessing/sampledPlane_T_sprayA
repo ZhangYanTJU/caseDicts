@@ -22,7 +22,7 @@ surfaceFormat   raw;
 
 surfaces
 (
-    sampledCuttingPlane
+    sampledPlane
     {
         type    cuttingPlane;
         interpolate false;
