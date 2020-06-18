@@ -26,7 +26,7 @@ conditionalFields ( Z );
 
 nBins           500;
 
-averagedFields  ( Z varZ );
+averagedFields  ( varZ );
 
 
 // ************************************************************************* //
