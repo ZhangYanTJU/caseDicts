@@ -28,7 +28,7 @@ functions
 ```
 
 
-## [conditionalAverage](https://github.com/ZmengXu/conditionalAverage)
+## [conditionalAverage, from ZmengXu](https://github.com/ZmengXu/conditionalAverage)
 
 ```
 postProcess -fields '(Z varZ)' -func conditionalAverage
