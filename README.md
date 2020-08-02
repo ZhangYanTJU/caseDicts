@@ -12,7 +12,7 @@ You can use these configuration files directly once you put then on the [specifi
 Or you can just copy them into your `$FOAM_CASE/system`.
 
 
-## [autoReconstructPar](https://github.com/ZmengXu/autoReconstructPar)
+## [autoReconstructPar, from ZmengXu](https://github.com/ZmengXu/autoReconstructPar)
 
 If you cannot use `collated fileHandler`, you may generate huge amount of files.
 This code will save you from this.
@@ -34,9 +34,9 @@ functions
 postProcess -fields '(Z varZ)' -func conditionalAverage
 ```
 
-## [writeCloudOldStyle](https://github.com/blueCFD/lagrangianExtraFunctionObjects)
+## [writeCloudOldStyle, from blueCFD](https://github.com/blueCFD/lagrangianExtraFunctionObjects)
 
-One contribution from [ZmengXu](https://github.com/ZmengXu/lagrangianExtraFunctionObjects/tree/OF5x), enables the code to write both ascii and binary format, which has not been merged yet.
+Another contribution from [ZmengXu](https://github.com/ZmengXu/lagrangianExtraFunctionObjects/tree/OF5x), enables the code to write both ascii and binary format, which has not been merged yet.
 
 ### For the finished case:
 ```
